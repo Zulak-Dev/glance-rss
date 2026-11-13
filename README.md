@@ -1,6 +1,12 @@
 [README.MD](https://github.com/user-attachments/files/24452831/README.MD)
+
+
+#ABANDONNED#
+
+
 # Glance RSS 🇫🇷
 Developed by **Zulak**
+
 
 A minimalist, highly customizable RSS ticker for the Cinnamon Desktop (Linux Mint).
 
